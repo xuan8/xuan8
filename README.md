@@ -6,8 +6,6 @@
 <p align="center">姓名：彭璇</p>
 <p align="center">时间：2020.6.18</p>
 
-！[](https://github.com/xuan8/xuan8/blob/master/%E5%9B%BE%E7%89%871.png)
-
 ## 目录	
 一、背景分析
 
@@ -38,24 +36,55 @@
 八、设备参数分析	
 
 1.1、核心层路由器	
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMm2teyKYi7vg*ksomfbNpTCGWyFYKGwAdLlJwpoa8a25u6E47zIRxnGVtzz2PwGn2g!!/mnull&bo=pAJWAAAAAAADB9I!&rf=photolist&t=5)
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMvGYsJo9Gy0HB*V2rKhvFUd7JUEwEAP1Tne*vwpYnQzx6frh7gdd62QjClKRaWn30w!!/mnull&bo=fgI4AwAAAAADB2U!&rf=photolist&t=5)
 
 1.2、汇聚层交换机	
 
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMrEag3FG4leqwM0QkdG6YshRbfU75MQBet9rIXrws6P12xxd1RMF7vPI6F1j9j8k8A!!/mnull&bo=5QLmAQAAAAADByI!&rf=photolist&t=5)
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMmR8TxosGU.THNRnBFbVZbTImq7iwCtJRJT03Ws8Mwxz3A2Swp3PordGacEznMU7zA!!/mnull&bo=cgLyAgAAAAADB6I!&rf=photolist&t=5)
+
 1.3、接入层交换机	
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMrR9iuMqU0h3e743KyO1g2sgtDzyykdAaOz4.8Vd8nfd89dVjD2y63wqiTODPC9OCw!!/mnull&bo=2wLSAQAAAAADByg!&rf=photolist&t=5)
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMnpEvpfAJTnvxcdByfwAw8j2pdZX2xOgjH*fYjOuEItilKqQ.vNbNXceolkH86DMoA!!/mnull&bo=cwLFAgAAAAADB5Q!&rf=photolist&t=5)
 
 2.1核心层路由器	
 
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMiLhLxzewv*b4EgcrRXjJmViqYMSb41gobLEj4FPJJ.5wPvkWUnz1r7OlocEkh4LvA!!/mnull&bo=8AIAAgAAAAADB9I!&rf=photolist&t=5)
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMktF5k5iz2rQmsAy9kPMkiYciuk1ZB5cS65A3eQ9R*E5NwYJbtzqove8XxckJmhadg!!/mnull&bo=XgLLAgAAAAADB7c!&rf=photolist&t=5)
+
 2.2汇聚层交换机	
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMpJ9lkYNG6CX*c.jNnnnXA.IImIxr2eoab9c.UVSSlaQjWbiEIyaVRD0v1L6heUmMw!!/mnull&bo=6AK9AQAAAAADB3Q!&rf=photolist&t=5)
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMtewQLts*iatQ3t8Y.AQtyINU.3rgFG7vuPJdHPr5lU.tJ9c4..TLp.j87eZO14ZGg!!/mnull&bo=cwIUAwAAAAADB0Q!&rf=photolist&t=5)
+
 
 2.3接入层交换机	
 
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMo6jTNJMeZ.k4Cbbw0WByTWP2nxaftvZEhzd2eVXc*ahCLruzGkpn4eeOpaMl5.7Ow!!/mnull&bo=8wHPAgAAAAADBx0!&rf=photolist&t=5)
+
 3、静电地板	
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMibiC8lRZNk85JSbWIW7DbLfnw1Zb8LyvXEdPHdxTXuoUf8WuA*phm7qYZg64eY0PA!!/mnull&bo=DgNZAQAAAAADB3c!&rf=photolist&t=5)
 
 4、UPS（山特C3KS）	
 
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMgRH00KF8iJe3cLqFS5h6KVj6e0K9.X2jal94I5*fBXs7Nb3HbEoCb5HPxqM1CFp5Q!!/mnull&bo=fQNvAgAAAAADBzE!&rf=photolist&t=5)
+
 5、挂墙机柜	
 
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMgRH00KF8iJe3cLqFS5h6KVj6e0K9.X2jal94I5*fBXs7Nb3HbEoCb5HPxqM1CFp5Q!!/mnull&bo=fQNvAgAAAAADBzE!&rf=photolist&t=5)
+
 6、设备间机柜	
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMo5FIJE1U6nwnzUC1NXL6rLGoYIISTCdR**IZW8QJG5yX8fY.cg83Et4N9TUrpNMyg!!/mnull&bo=.QLvAQAAAAADBzc!&rf=photolist&t=5)
+
+![](http://m.qpic.cn/psc?/V136EAip4YJo8G/yjRt0f3d7*S2CnJxsjXCMvgRbuIhlfQbLGgY6fRjbNpqPgfxVh0X*kYubTzcXE80kceKCFm3ctsCrToVnUd5hw!!/mnull&bo=3wJrAgAAAAADB5Y!&rf=photolist&t=5)
 
 7、光电转换器	
 
